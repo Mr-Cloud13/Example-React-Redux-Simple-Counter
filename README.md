@@ -1,1 +1,1 @@
-# Example-React-Redux-Simple-Counter-
+# Example-React-Redux-Simple-Counter
