@@ -6,7 +6,7 @@
 
 ~ open terminal and type
 
-        npm install --save OR npm i -s
+        npm install --save node-modules OR npm i -s node-modules
         
 ~ after finished type
 
